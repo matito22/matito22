@@ -1,30 +1,52 @@
 <div align="center">
-<h1 align="center">Hola, soy <a ">Mati</a> 👋</h1>
+<h1>Hola, soy Mati 👋</h1>
 </div>
-<img src="banner.png">
+
+<img src="banner.png" width="100%">
+
+---
 
 ## Sobre mi
-- Desarrollador Full Stack
-- Anteriormente Soporte Tecnico
-- Apasionado por el codigo y el futbol
+- 💻 Desarrollador Full Stack
+- 🛠️ Anteriormente Soporte Tecnico
+- ⚽ Apasionado por el código y el fútbol
 
 <br>
 
-## Proyectos
+# Proyectos
+
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">Sistema de Gestion de expedientes</h3>
+<td width="100%">
+
+<h3 align="center">Sistema de Gestión de Expedientes</h3>
+
 <div align="center">
-<a href="" target="_blank"><img src="" width="400"></a>
-<p>
+
+<table>
+<tr>
+<td align="center">
+<img src="frontMesaUnica.png" height="220">
+</td>
+
+<td align="center">
+<img src="loginMesaUnica.png" height="220">
+</td>
+</tr>
+</table>
+
+<br>
+
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
+<p>
+Sistema de Gestión de Expedientes para facilitar la aprobación de documentos por parte de los usuarios municipales y mejorar la experiencia de los contribuyentes.
 </p>
-<p>Sistema de Gestion de Expedientes para facilitar la aprobacion de los documentos por parte de los usuarios municipales, y una facilitacion para los contribuyentes</p>
-</div>
-                                                                                      
-</td>
 
+</div>
+
+</td>
+</tr>
+</table>
