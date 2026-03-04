@@ -37,8 +37,12 @@
 
 <br>
 
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/matito22/backendMesaUnica.git" target="_blank">
+<img src="https://img.shields.io/badge/BACKEND-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+<a href="https://github.com/matito22/frontendMesaUnica.git" target="_blank">
+<img src="https://img.shields.io/badge/FRONTEND-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 <p>
